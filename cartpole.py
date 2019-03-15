@@ -1,11 +1,10 @@
-import gym
 import math
 from random import random
 import json
 import signal
 import sys
 import time
-import numpy as np
+import gym
 env = gym.make('CartPole-v1')
 
 INITIAL_EPSILON = 0.3 
@@ -74,6 +73,8 @@ for i_episode in range(900000):
     observation = env.reset()
     history = []
     t = 0
+    if i_episode % 1000 == 0:
+        print(f"episode {i_episode}")
     while(1):
         if i_episode % 1000 == 0:
             env.render()
