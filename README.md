@@ -1,2 +1,2 @@
-# ReinforcementLearning-PoleBalancing
-A solution to the Pole-balancing problem using a Monte Carlo method.
+# Training
+![Alt text](gifs/training1.gif?raw=true "episode 4000")
