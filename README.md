@@ -2,7 +2,7 @@ For the theory see chapter 5 of Richard Sutton and Andrew Barto's book *Reinforc
 An Introduction*
 
 ## Dependencies
-numpy and [openAI gym](https://github.com/openai/gym)
+[openAI gym](https://github.com/openai/gym)
 
 ## Training
 
