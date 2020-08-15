@@ -1,4 +1,4 @@
-For the theory see chapter 5 of Richard Sutton and Andrew Barto's book *Reinforcement Learning:
+For the theory, see chapter 5 of Richard Sutton and Andrew Barto's book *Reinforcement Learning:
 An Introduction*
 
 ## Dependencies
